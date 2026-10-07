@@ -8,8 +8,7 @@ def home():
     number_b = 5
     total_sum = number_a + number_b
 
-    return f"The sum is:
-{total_sum}"
+    return f"The sum is:\n{total_sum}"
 
 if __name__ == '__main__':
     app.run()

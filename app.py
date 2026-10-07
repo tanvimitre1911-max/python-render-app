@@ -9,7 +9,7 @@ def home():
     total_sum = number_a + number_b
 
     return f"The sum is:
-    {total_sum}"
+{total_sum}"
 
 if __name__ == '__main__':
     app.run()
